@@ -1,2 +1,3 @@
 # Revisiting_a_Concrete_Strength_Machine_Learning_and_Data_Analysis
 Data Analysis and Machine Learning on Concrete Strength
+![](https://github.com/SoroushGhaderi/Revisiting_a_Concrete_Strength_Machine_Learning_and_Data_Analysis/blob/master/images/concrete_mix-692096736-5af8a50ea9d4f90036623585.jpg)
