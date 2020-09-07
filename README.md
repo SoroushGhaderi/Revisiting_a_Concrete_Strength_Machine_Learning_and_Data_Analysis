@@ -2,10 +2,11 @@
 
 ![](https://github.com/SoroushGhaderi/Revisiting_a_Concrete_Strength_Machine_Learning_and_Data_Analysis/blob/master/images/concrete_mix-692096736-5af8a50ea9d4f90036623585.jpg)
 
+dataset downloaded from [Kaggle](https://www.kaggle.com/maajdl/yeh-concret-data) website, and notebook will be upload there.
 ## Data Set Information:
-Number of instances 1030
-Number of Attributes 9
-Attribute breakdown 8 quantitative input variables, and 1 quantitative output variable
+Number of instances 1030\
+Number of Attributes 9\
+Attribute breakdown 8 quantitative input variables, and 1 quantitative output variable\
 Missing Attribute Values None
 
 ## Attribute Information:
