@@ -27,4 +27,3 @@ Given are the variable name, variable type, the measurement unit and a brief des
 ### Inspiration
 Can you predict the strength of concrete?
 ** for more information and model prediction figures please visit jupyter notebook.
-.
